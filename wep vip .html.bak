@@ -1,0 +1,82 @@
+<html>
+	<head>		
+		<title> esslam vip</title>
+			<link rel="stylesheet" href="wep vip.css" type="text/css"/>
+			<link rel="stylesheet" href="wep vip.js" type="text/js"/>
+        
+			<script src="wep vip.js"></script>
+	</head>
+	<body>
+        
+		<header>
+		<h2><a href="#" class="logo"> esslam<a/></h2>
+		<ul>
+		<li><a href="#" class="active">home</a></li>
+		<li><a href="#">product</a></li>
+		<li><a href="#">shop</a></li>
+		<li><a href="#">about</a></li>
+		<li><a href="#work">contact</a></li>
+		</ul>
+		</header>
+		<section class="main">
+		<img src="file:///E:/wepside/wepside/stars1.png" id="start">
+		<h2 class="esslam"></h2>
+		<img src="file:///E:/wepside/wepside/moon2.png" id="moon">
+		<img src="file:///E:/wepside/wepside/mountains3.png" id="mountaine3">
+		<img src="file:///E:/wepside/wepside/mountains4.png" id="mountains4">
+		<img src="file:///E:/wepside/wepside/river5.png" id="river5.png">
+		<img src="file:///E:/wepside/wepside/boat6.png" id="boat6">
+		<img src="file:///E:/wepside/wepside/mountains7.png" id="mountains7">		
+		</section>
+            
+            <h1>SIGN IN</h1>
+<div class="container" id="contact">
+<div class="w3-half w3-light-grey w3-center" style="min-height:800px" id="work">
+  <form action="https://www.w3schools.com/css/tryit.asp?filename=trycss_form_responsive">
+  <div class="row">
+    <div class="col-25">
+      <label for="fname">First Name</label>
+    </div>
+    <div class="col-75">
+      <input type="text" id="fname" name="firstname" placeholder="Your name..">
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-25">
+      <label for="lname">Last Name</label>
+    </div>
+    <div class="col-75">
+      <input type="text" id="lname" name="password" placeholder="Your last name..">
+    </div>
+  </div>
+	
+  <div class="row">
+    <div class="col-25">
+      <label for="country">Country</label>
+    </div>
+    <div class="col-75">
+      <select id="country" name="country">
+        <option value="australia">Australia</option>
+        <option value="canada">Canada</option>
+        <option value="usa">USA</option>
+        <option value="egypt">egypt</option>
+      </select>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-25">
+      <label for="subject">Subject</label>
+    </div>
+    <div class="col-75">
+      <textarea id="subject" name="subject" placeholder="Write something.." style="height:200px"></textarea>
+    </div>
+  </div>
+  <br>
+  <div class="row">
+    <input type="submit" value="Submit">
+  </div>
+  </form>
+</div>
+		</div>
+	</body>
+</html>
